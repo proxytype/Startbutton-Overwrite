@@ -1,4 +1,4 @@
-# Startbutton-Overwrite
+# Start Button Overwrite
 Quick and dirty example how to customize windows taskbar start button.
 
 ![alt text](https://raw.githubusercontent.com/proxytype/Startbutton-Overwrite/main/start-overwrite.gif)
