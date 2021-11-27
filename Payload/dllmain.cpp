@@ -13,11 +13,8 @@ HWND windowsStartButton = NULL;
 HWND myStartButton = NULL;
 
 HICON hNormal = NULL;
-HICON hHover = NULL;
-HICON hClick = NULL;
 
 WNDPROC startButtonProc = NULL;
-WNDPROC taskManagerProc = NULL;
 
 RECT rc;
 
